@@ -1,0 +1,5 @@
+clock_8xx.h:200:20:Chip_Clock_EnablePeriphClock	16	static
+clock_8xx.h:210:20:Chip_Clock_DisablePeriphClock	16	static
+board_sysinit.c:56:6:Board_SetupMuxing	8	static
+board_sysinit.c:80:6:Board_SetupClocking	8	static
+board_sysinit.c:89:6:Board_SystemInit	8	static

@@ -1,0 +1,8 @@
+clock_8xx.h:200:20:void Chip_Clock_EnablePeriphClock(CHIP_SYSCTL_CLOCK_T)	16	static
+gpio_8xx.h:99:20:void Chip_GPIO_SetPinState(LPC_GPIO_T*, uint8_t, uint8_t, bool)	24	static
+gpio_8xx.h:125:20:bool Chip_GPIO_GetPinState(LPC_GPIO_T*, uint8_t, uint8_t)	16	static
+gpio_8xx.h:270:20:void Chip_GPIO_SetPortDIROutput(LPC_GPIO_T*, uint8_t, uint32_t)	24	static
+gpio_8xx.h:288:20:void Chip_GPIO_SetPortDIRInput(LPC_GPIO_T*, uint8_t, uint32_t)	24	static
+gpio_8xx.h:478:20:void Chip_GPIO_SetPinOutHigh(LPC_GPIO_T*, uint8_t, uint8_t)	16	static
+gpio_8xx.h:521:20:void Chip_GPIO_SetPinOutLow(LPC_GPIO_T*, uint8_t, uint8_t)	16	static
+Test_new_new.cpp:26:5:int main()	24	static
